@@ -5,7 +5,7 @@ A Data Ingestion Framework that automates, the process of pulling semistructured
 
 Technologies used:
 
-1. AWS Services(EMR,API Gateway,CFT,IAM,RDS,Lambda,S3), 
+1.AWS Services(EMR,API Gateway,CFT,IAM,RDS,Lambda,S3), 
 
 2.Python 
 
